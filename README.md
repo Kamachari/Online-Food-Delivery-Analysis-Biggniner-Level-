@@ -1,6 +1,4 @@
-# Online-Food-Delivery-Analysis-Biggniner-Level-
-
-# 🍴 Food Delivery SQL Project (Beginner Level)
+# 🍴 Online Food Delivery Analysis SQL Project (Beginner Level)
 
 ## 📌 Project Overview
 This project analyzes a **Food Delivery dataset** using SQL to uncover insights about **customers, restaurants, menu items, and orders**.  
