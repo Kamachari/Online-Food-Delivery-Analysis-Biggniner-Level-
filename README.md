@@ -88,3 +88,12 @@ Sample charts created from query outputs:
 ## 🙌 Acknowledgments
 This project is created as part of my **SQL learning journey**.  
 Special thanks to **@DataPencil** and **@Kalyani_Bhatnagar**
+
+
+
+
+# 🔗 Connect
+👤 **Buragapalli Kamachari**  
+📧 Email: kamacharivarrier@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/buragapalli-kamachari-931624269/  
+📂 GitHub: github.com/kamachari
